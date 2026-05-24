@@ -1,0 +1,17 @@
+{
+    "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
+    "logo": "./logo.jpg",
+    "sites": [
+        {
+            "key": "duanju",
+            "name": "SVIP短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/SVIP短剧.json"
+        }
+    ]
+}
