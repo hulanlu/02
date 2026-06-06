@@ -1,0 +1,171 @@
+{
+    "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
+    "logo": "./logo.jpg",
+    "sites": [
+        {
+            "key": "红果短剧",
+            "name": "🪆红果｜短剧py",
+            "type": 3,
+            "api": "./py/红果短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "河马短剧",
+            "name": "🪆河马｜短剧py",
+            "type": 3,
+            "api": "./py/河马短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "包子短剧",
+            "name": "包子短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/包子短剧.json"
+        },
+        {
+            "key": "短剧TV",
+            "name": "短剧TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧TV.json"
+        },
+        {
+            "key": "集百短剧",
+            "name": "集百短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/集百短剧.json"
+        },
+        {
+            "key": "免费短剧",
+            "name": "免费短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/免费短剧.json"
+        },
+        {
+            "key": "PTT短剧",
+            "name": "PTT短剧",
+            "type": 3,
+            "api": "./py/PTT短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "短剧网站",
+            "name": "短剧网站",
+            "type": 3,
+            "api": "./py/短剧网站.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "瓜子影视",
+            "name": "瓜子影视",
+            "type": 3,
+            "api": "./py/瓜子影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "好看短剧",
+            "name": "好看短剧",
+            "type": 3,
+            "api": "./py/好看短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "七猫短剧",
+            "name": "七猫短剧",
+            "type": 3,
+            "api": "./py/七猫短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "围观短剧",
+            "name": "围观短剧",
+            "type": 3,
+            "api": "./py/围观短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "五五短剧",
+            "name": "五五短剧",
+            "type": 3,
+            "api": "./py/五五短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "喜福短剧",
+            "name": "喜福短剧",
+            "type": 3,
+            "api": "./py/喜福短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "星芽短剧",
+            "name": "星芽短剧",
+            "type": 3,
+            "api": "./py/星芽短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        }
+    ]
+}
